@@ -1,4 +1,4 @@
 pymaya
 ======
 
-scripts para maya
+Scripts para maya
