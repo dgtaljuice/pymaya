@@ -1,6 +1,6 @@
 pymaya
 ======
 
-# Descripción
+# Description
 
-Scripts para maya
+These are my python scripts for maya
